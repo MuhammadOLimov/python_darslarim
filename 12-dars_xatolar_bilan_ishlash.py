@@ -63,26 +63,11 @@ Muallif:Muhammad Olimov
 #     print(meva)
 # print("Dastur tugadi")
 
-"""
-27/11/2020
-Dasturlash asoslari
-#12-dars: Xatolar
-Muallif: Anvar Narzullaev
-Web sahifa: https://python.sariq.dev
-"""
-
 son = float(input("Juft son kiriting: "))
 if son%2==1:
     print("Bu son juft emas.")
 else:
     print("Rahmat!")
-"""
-27/11/2020
-Dasturlash asoslari
-#12-dars: Xatolar
-Muallif: Anvar Narzullaev
-Web sahifa: https://python.sariq.dev
-"""
 
 yosh =int(input("Yoshingiz nechida?"))
 
@@ -93,13 +78,6 @@ elif yosh < 18:
 else:
     narh = 20000
 print(f"Chipta {narh} so'm")
-"""
-27/11/2020
-Dasturlash asoslari
-#12-dars: Xatolar
-Muallif: Anvar Narzullaev
-Web sahifa: https://python.sariq.dev
-"""
 
 x = float(input("Birinchi sonni kiriting: "))
 y = float(input("Ikkinchi sonni kiriting: "))
@@ -109,13 +87,6 @@ elif x<y:
     print(f"{x}<{y}")
 else:
     print(f"{x}>{y}")
-"""
-27/11/2020
-Dasturlash asoslari
-#12-dars: Xatolar
-Muallif: Anvar Narzullaev
-Web sahifa: https://python.sariq.dev
-"""
 
 mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz',
                'kartoshka', 'olma', 'banan', 'uzum', 'qovun']
@@ -132,13 +103,6 @@ if savat:
             print(f"Do'konimizda {mahsulot} yo'q")
 else: 
     print("Savatingiz bo'sh")  
-"""
-27/11/2020
-Dasturlash asoslari
-#12-dars: Xatolar
-Muallif: Anvar Narzullaev
-Web sahifa: https://python.sariq.dev
-"""
 
 mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz',
                'kartoshka', 'olma', 'banan', 'uzum', 'qovun']
@@ -162,13 +126,6 @@ for mahsulot in mavjud_emas:
   print(mahsulot)
 else:
   print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
-"""
-27/11/2020
-Dasturlash asoslari
-#12-dars: Xatolar
-Muallif: Anvar Narzullaev
-Web sahifa: https://python.sariq.dev
-"""
 
 users = ['alisher1983','aziza','yasina' 'umar']
 
